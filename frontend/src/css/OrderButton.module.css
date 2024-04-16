@@ -1,0 +1,210 @@
+
+
+@media screen and (min-width: 320px) and (max-width: 480px)
+{
+
+}
+
+@media screen and (min-width: 481px) and (max-width: 768px)
+{
+    .orderButtonContainer{
+        display: block;
+        width: 100%;
+        margin: auto auto;
+        font-size: 10px;
+        font-weight: bold;
+        padding-top: 10px;
+        -webkit-user-select: none;
+        -khtml-user-select: none;
+        -webkit-touch-callout : none;
+        -moz-user-select: none;
+        -o-user-select: none;
+    }
+    
+    .orderButton{
+        padding: 15px 20px;
+        border-radius: 6px;
+        background-color: orange;
+        color: white;
+        cursor: pointer;
+    }
+
+    .orderQuantityCountButtonContainer{
+        padding-top: 30px;
+    }
+    
+    .addButton{
+        background-color: orange;
+        font-weight: bold;
+        color: white;
+        border-radius: 6px;
+        padding: 5px 10px;
+        margin-right: 7px;
+        margin-left: 10px;
+        cursor: pointer;
+    }
+    
+    .subtractButton{
+        background-color: orange;
+        font-weight: bold;
+        color: white;
+        border-radius: 6px;
+        padding: 5px 10px;
+        margin-right: 7px;
+        margin-left: 10px;
+        cursor: pointer;
+    }
+}
+
+@media screen and (min-width: 769px) and (max-width: 1024px)
+{
+    .orderButtonContainer{
+        display: block;
+        width: 100%;
+        margin: auto auto;
+        font-size: 12.5px;
+        font-weight: bold;
+        padding-top: 12.5px;
+        -webkit-user-select: none;
+        -khtml-user-select: none;
+        -webkit-touch-callout : none;
+        -moz-user-select: none;
+        -o-user-select: none;
+    }
+    
+    .orderButton{
+        padding: 15px 20px;
+        border-radius: 6px;
+        background-color: orange;
+        color: white;
+        cursor: pointer;
+    }
+    
+    .orderQuantityCountButtonContainer{
+        padding-top: 30px;
+    }
+    
+    .addButton{
+        background-color: orange;
+        font-weight: bold;
+        color: white;
+        border-radius: 6px;
+        padding: 5px 10px;
+        margin-right: 7px;
+        margin-left: 10px;
+        cursor: pointer;
+    }
+    
+    .subtractButton{
+        background-color: orange;
+        font-weight: bold;
+        color: white;
+        border-radius: 6px;
+        padding: 5px 10px;
+        margin-right: 7px;
+        margin-left: 10px;
+        cursor: pointer;
+    }
+}
+
+@media screen and (min-width: 1025px) and (max-width: 1200px)
+{
+    .orderButtonContainer{
+        display: block;
+        width: 100%;
+        margin: auto auto;
+        font-size: 15px;
+        font-weight: bold;
+        padding-top: 15px;
+        -webkit-user-select: none;
+        -khtml-user-select: none;
+        -webkit-touch-callout : none;
+        -moz-user-select: none;
+        -o-user-select: none;
+    }
+    
+    .orderButton{
+        padding: 15px 20px;
+        border-radius: 6px;
+        background-color: orange;
+        color: white;
+        cursor: pointer;
+    }
+    
+    .orderQuantityCountButtonContainer{
+        padding-top: 30px;
+    }
+    
+    .addButton{
+        background-color: orange;
+        font-weight: bold;
+        color: white;
+        border-radius: 6px;
+        padding: 5px 10px;
+        margin-right: 7px;
+        margin-left: 10px;
+        cursor: pointer;
+    }
+    
+    .subtractButton{
+        background-color: orange;
+        font-weight: bold;
+        color: white;
+        border-radius: 6px;
+        padding: 5px 10px;
+        margin-right: 7px;
+        margin-left: 10px;
+        cursor: pointer;
+    }
+}
+
+@media screen and (min-width: 1201px) 
+{
+    .orderButtonContainer{
+        display: block;
+        width: 100%;
+        margin: auto auto;
+        font-size: 20px;
+        font-weight: bold;
+        padding-top: 20px;
+        -webkit-user-select: none;
+        -khtml-user-select: none;
+        -webkit-touch-callout : none;
+        -moz-user-select: none;
+        -o-user-select: none;
+    }
+    
+    .orderButton{
+        padding: 15px 20px;
+        border-radius: 6px;
+        background-color: orange;
+        color: white;
+        cursor: pointer;
+    }
+    
+    .orderQuantityCountButtonContainer{
+        padding-top: 30px;
+    }
+    
+    .addButton{
+        background-color: orange;
+        font-weight: bold;
+        color: white;
+        border-radius: 6px;
+        padding: 5px 10px;
+        margin-right: 7px;
+        margin-left: 10px;
+        cursor: pointer;
+    }
+    
+    .subtractButton{
+        background-color: orange;
+        font-weight: bold;
+        color: white;
+        border-radius: 6px;
+        padding: 5px 10px;
+        margin-right: 7px;
+        margin-left: 10px;
+        cursor: pointer;
+    }
+}

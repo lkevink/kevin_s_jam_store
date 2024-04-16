@@ -1,0 +1,94 @@
+@media screen and (min-width: 320px) and (max-width: 480px)
+{
+    
+}
+
+@media screen and (min-width: 481px) and (max-width: 768px)
+{
+    .homeSection{
+
+        height: 500px;
+        margin: auto auto;
+
+    }
+    
+    .homeContainer{
+        width: 400px;
+        height: 400px;
+        margin: auto auto;
+        padding-top: 250px;
+
+    }
+}
+
+@media screen and (min-width: 769px) and (max-width: 1024px)
+{
+    .homeSection{
+        height: 500px;
+        margin: auto auto;
+
+
+    }
+    
+    .homeContainer{
+        width: 500px;
+        height: 500px;
+        margin: auto auto;
+        padding-top: 275px;
+        
+    }
+    
+
+
+}
+
+@media screen and (min-width: 1025px) and (max-width: 1200px)
+{
+    .homeSection{
+        height: 500px;
+        margin: auto auto;
+
+
+    }
+    
+    .homeContainer{
+        width: 600px;
+        height: 600px;
+        margin: auto auto;
+        padding-top: 300px;
+        
+    }
+}
+
+@media screen and (min-width: 1201px) 
+{   
+    .homeSection{
+        height: 500px;
+        margin: auto auto;
+
+
+    }
+    
+    .homeContainer{
+        width: 700px;
+        height: 700px;
+        margin: auto auto;
+        padding-top: 325px;
+        
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

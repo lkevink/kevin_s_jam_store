@@ -1,0 +1,597 @@
+
+
+@media screen and (min-width: 320px) and (max-width: 480px)
+{
+
+}
+
+@media screen and (min-width: 481px) and (max-width: 768px)
+{
+    .emptycheckoutListSection{
+        font-size: 24px;
+        padding-top: 50px;
+        text-align: center;
+    }
+
+    .emptycheckoutListSection h2{
+        color: black;
+    }
+
+    .emptycheckoutListSection h2 a{
+        text-decoration: none;
+        color: white;
+    }
+    
+    .emptycheckoutListSection button{
+        color: white;
+        background-color: black;
+        border-radius: 7px;
+        border: 3px solid black;
+        padding: 10px 10px;
+        margin: 5px;
+        font-weight: bold;
+    }
+
+    
+    .checkoutListTitle{
+        text-align: center;
+        padding-top: 50px;
+        color: black;
+    }
+    
+    .checkoutListItemContainer{
+        text-align: center;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        width: 80%;
+        font-weight: bold;
+        border: 3px solid black;
+        margin-top: 50px;
+        margin-left: 10%;
+        margin-right: 50%;
+        padding-top: 50px;
+        padding-bottom: 25px;
+        background-color: black;
+        color: white;
+        position: relative;
+    
+    }
+    
+    .checkoutListItemForm{
+        width: 100%;
+        text-align: left;
+        border-spacing: 0px;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    
+    
+    
+    .checkoutListItemForm img{
+        width: 200px;
+        height: 200px;
+    
+        margin-left: 10px;
+        margin-bottom: 25px;
+    }
+    
+    
+    
+    .checkoutListItemInformation{
+        width: 200px;
+        position: absolute;
+        text-align: left;
+        margin-top: -120px;
+        right: 35px;
+    }
+    
+    .checkoutListItemForm p{
+        font-size: 10px;
+    }
+    
+    
+    
+    .purchaseAmountOfSingleProduct{
+        font-size: 10px;
+        font-weight: bold;
+        margin-top: 5%;
+        width: 100%;
+        white-space: nowrap;
+    
+    
+    }
+    
+    
+    .checkoutListTotalPriceAndShippingCostSection{
+        width: 80%;
+        font-size: 10px;
+        font-weight: bold;
+        text-align: center;
+        margin-left: 10%;
+        margin-bottom: 125px;
+        padding-top: 30px;
+        padding-bottom: 50px;
+        border: 3px solid black;
+        color: black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .checkoutListFreeShipping p{
+        margin-bottom: 25px;
+    }
+    
+    .checkoutListTotalPriceAndShippingCostSection form{
+        margin-left: 20%;
+        margin-bottom: 15px;
+        text-align: right;
+    }
+    
+    .checkoutListTotalPriceAndShippingCostSection button{
+        font-size: 22px;
+        background-color: black;
+        font-weight: bold;
+        border-radius: 6px;
+        cursor: pointer;
+        padding: 13px 40px;
+        text-align: center;
+        margin-bottom: -15px;
+        
+        
+    
+    }
+
+    .checkoutListTotalPriceAndShippingCostSection button a{
+        text-decoration: none;
+        color: white;
+    }
+
+}
+
+@media screen and (min-width: 769px) and (max-width: 1024px)
+{
+    .emptycheckoutListSection{
+        font-size: 24px;
+        padding-top: 50px;
+        text-align: center;
+    }
+
+    .emptycheckoutListSection h2{
+        color: black;
+    }
+
+    .emptycheckoutListSection h2 a{
+        text-decoration: none;
+        color: white;
+    }
+    
+    .emptycheckoutListSection button{
+        color: white;
+        background-color: black;
+        border-radius: 7px;
+        border: 3px solid black;
+        padding: 10px 10px;
+        margin: 5px;
+        font-weight: bold;
+    }
+
+    
+    .checkoutListTitle{
+        text-align: center;
+        padding-top: 50px;
+        color: black;
+    }
+    
+    .checkoutListItemContainer{
+        text-align: center;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        width: 80%;
+        font-weight: bold;
+        border: 3px solid black;
+        margin-top: 50px;
+        margin-left: 10%;
+        margin-right: 50%;
+        padding-top: 50px;
+        padding-bottom: 25px;
+        background-color: black;
+        color: white;
+        position: relative;
+    
+    }
+    
+    .checkoutListItemForm{
+        width: 100%;
+        text-align: left;
+        border-spacing: 0px;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    
+    
+    
+    .checkoutListItemForm img{
+        width: 250px;
+        height: 250px;
+    
+        margin-left: 40px;
+        margin-bottom: 25px;
+    }
+    
+    
+    
+    .checkoutListItemInformation{
+        width: 300px;
+
+        text-align: left;
+        margin-top: -110px;
+        right: 15px;
+
+        position: absolute;
+    }
+    
+    .checkoutListItemForm p{
+        font-size: 12.5px;
+    }
+    
+    
+    
+    .purchaseAmountOfSingleProduct{
+        font-size: 12.5px;
+        font-weight: bold;
+        margin-top: 5%;
+        width: 100%;
+        white-space: nowrap;
+    
+    
+    }
+    
+    
+    .checkoutListTotalPriceAndShippingCostSection{
+        width: 80%;
+        font-size: 12.5px;
+        font-weight: bold;
+        text-align: center;
+        margin-left: 10%;
+        margin-bottom: 125px;
+        padding-top: 30px;
+        padding-bottom: 50px;
+        border: 3px solid black;
+        color: black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .checkoutListFreeShipping p{
+        margin-bottom: 25px;
+    }
+    
+    .checkoutListTotalPriceAndShippingCostSection form{
+        margin-left: 20%;
+        margin-bottom: 10px;
+        text-align: right;
+    }
+    
+    .checkoutListTotalPriceAndShippingCostSection button{
+        font-size: 22px;
+        background-color: black;
+        font-weight: bold;
+        border-radius: 6px;
+        cursor: pointer;
+        padding: 13px 40px;
+        text-align: center;
+        margin-bottom: -10px;
+        
+        
+    
+    }
+
+    .checkoutListTotalPriceAndShippingCostSection button a{
+        text-decoration: none;
+        color: white;
+    }
+}
+
+@media screen and (min-width: 1025px) and (max-width: 1200px)
+{
+    .emptycheckoutListSection{
+        font-size: 24px;
+        padding-top: 50px;
+        text-align: center;
+    }
+
+    .emptycheckoutListSection h2{
+        color: black;
+    }
+
+    .emptycheckoutListSection h2 a{
+        text-decoration: none;
+        color: white;
+    }
+    
+    .emptycheckoutListSection button{
+        color: white;
+        background-color: black;
+        border-radius: 7px;
+        border: 3px solid black;
+        padding: 10px 10px;
+        margin: 5px;
+        font-weight: bold;
+    }
+
+    
+    .checkoutListTitle{
+        text-align: center;
+        padding-top: 50px;
+        color: black;
+    }
+    
+    .checkoutListItemContainer{
+        text-align: center;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        width: 80%;
+        font-weight: bold;
+        border: 3px solid black;
+        margin-top: 50px;
+        margin-left: 10%;
+        margin-right: 50%;
+        padding-top: 50px;
+        padding-bottom: 25px;
+        background-color: black;
+        color: white;
+        position: relative;
+    
+    }
+    
+    .checkoutListItemForm{
+        width: 100%;
+        text-align: left;
+        border-spacing: 0px;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    
+    
+    
+    .checkoutListItemForm img{
+        width: 275px;
+        height: 275px;
+    
+        margin-left: 100px;
+        margin-bottom: 25px;
+    }
+    
+    
+    
+    .checkoutListItemInformation{
+        width: 350px;
+        position: absolute;
+        text-align: left;
+        margin-top: -110px;
+        right: 85px;
+
+    }
+    
+    .checkoutListItemForm p{
+        font-size: 15px;
+    }
+    
+    
+    
+    .purchaseAmountOfSingleProduct{
+        font-size: 15px;
+        font-weight: bold;
+        margin-top: 5%;
+        width: 100%;
+        white-space: nowrap;
+    
+    
+    }
+    
+    
+    .checkoutListTotalPriceAndShippingCostSection{
+        width: 80%;
+        font-size: 15px;
+        font-weight: bold;
+        text-align: center;
+        margin-left: 10%;
+        margin-bottom: 125px;
+        padding-top: 30px;
+        padding-bottom: 50px;
+        border: 3px solid black;
+        color: black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .checkoutListFreeShipping p{
+        margin-bottom: 25px;
+    }
+    
+    .checkoutListTotalPriceAndShippingCostSection form{
+        margin-left: 20%;
+        margin-bottom: 10px;
+        text-align: right;
+    }
+    
+    .checkoutListTotalPriceAndShippingCostSection button{
+        font-size: 22px;
+        background-color: black;
+        font-weight: bold;
+        border-radius: 6px;
+        cursor: pointer;
+        padding: 13px 40px;
+        text-align: center;
+        margin-bottom: -10px;
+        
+        
+    
+    }
+
+    .checkoutListTotalPriceAndShippingCostSection button a{
+        text-decoration: none;
+        color: white;
+    }
+}
+
+@media screen and (min-width: 1201px) 
+{
+    .emptycheckoutListSection{
+        font-size: 24px;
+        padding-top: 50px;
+        text-align: center;
+    }
+
+    .emptycheckoutListSection h2{
+        color: black;
+    }
+
+    .emptycheckoutListSection h2 a{
+        text-decoration: none;
+        color: white;
+    }
+    
+    .emptycheckoutListSection button{
+        color: white;
+        background-color: black;
+        border-radius: 7px;
+        border: 3px solid black;
+        padding: 10px 10px;
+        margin: 5px;
+        font-weight: bold;
+    }
+
+    
+    .checkoutListTitle{
+        text-align: center;
+        padding-top: 50px;
+        color: black;
+    }
+    
+    .checkoutListItemContainer{
+        text-align: center;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        width: 80%;
+        font-weight: bold;
+        border: 3px solid black;
+        margin-top: 50px;
+        margin-left: 10%;
+        margin-right: 50%;
+        padding-top: 50px;
+        padding-bottom: 25px;
+        background-color: black;
+        color: white;
+        position: relative;
+    
+    }
+    
+    .checkoutListItemForm{
+        width: 100%;
+        text-align: left;
+        border-spacing: 0px;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    
+    
+    
+    .checkoutListItemForm img{
+        width: 300px;
+        height: 300px;
+    
+        margin-left: 115px;
+        margin-bottom: 25px;
+    }
+    
+    
+    
+    .checkoutListItemInformation{
+        width: 450px;
+        position: absolute;
+        text-align: left;
+        margin-top: -125px;
+        right: 85px;
+    }
+    
+    .checkoutListItemForm p{
+        font-size: 20px;
+    }
+    
+    
+    
+    .purchaseAmountOfSingleProduct{
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 5%;
+        width: 100%;
+        white-space: nowrap;
+    
+    
+    }
+    
+    
+    .checkoutListTotalPriceAndShippingCostSection{
+        width: 80%;
+        font-size: 20px;
+        font-weight: bold;
+        text-align: center;
+        margin-left: 10%;
+        margin-bottom: 125px;
+        padding-top: 30px;
+        padding-bottom: 50px;
+        border: 3px solid black;
+        color: black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .checkoutListFreeShipping p{
+        margin-bottom: 25px;
+    }
+    
+    .checkoutListTotalPriceAndShippingCostSection form{
+        margin-left: 20%;
+        text-align: right;
+    }
+    
+    .checkoutListTotalPriceAndShippingCostSection button{
+        font-size: 22px;
+        background-color: black;
+        font-weight: bold;
+        border-radius: 6px;
+        cursor: pointer;
+        padding: 13px 40px;
+        text-align: center;
+        margin-bottom: -10px;
+        
+        
+    
+    }
+
+    .checkoutListTotalPriceAndShippingCostSection button a{
+        text-decoration: none;
+        color: white;
+    }
+}

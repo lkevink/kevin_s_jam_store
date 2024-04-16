@@ -1,0 +1,293 @@
+
+
+@media screen and (min-width: 320px) and (max-width: 480px)
+{
+
+}
+
+@media screen and (min-width: 481px) and (max-width: 768px)
+{
+    .productListButtonSection button{
+        background-color: black;
+        color: white;
+        border-radius: 7px;
+        border: 3px solid black;
+        padding: 10px 10px;
+        font-size: 15px;
+        font-weight: bold;
+        width: 150px;
+        height: 50px;
+    }
+    
+    .productListSection{
+        padding-top: 50px;
+        text-align: center;
+        align-items: center;
+        flex-wrap: wrap;
+        height: 2950px;
+    }
+    
+    .productListContainer{
+        background-color: black;
+        border: 3px solid black;
+        border-radius: 7px;
+        width: 350px;
+        height: 450px;
+        margin: auto auto;
+        margin-bottom: 20px;
+        padding-top: 27.5px;
+        color: white;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    
+    .productListContainer:hover{
+        background-color: gray;
+    }
+    
+    .productImage{
+        width: 250px;
+        height: 250px;
+    }
+    
+    .productName,
+    .productDescription,
+    .productPrice{
+        padding-top: 5px;
+        font-weight: bold;
+        font-size: 15px;
+
+    }
+}
+
+@media screen and (min-width: 769px) and (max-width: 1024px)
+{
+    .productListButtonSection button{
+        background-color: black;
+        color: white;
+        border-radius: 7px;
+        border: 3px solid black;
+        padding: 10px 10px;
+        font-size: 15px;
+        font-weight: bold;
+        width: 150px;
+        height: 50px;
+    }
+    
+    .productListSection{
+        display: flex;
+        padding-top: 50px;
+        text-align: center;
+        align-items: center;
+        flex-wrap: wrap;
+        height: 1450px;
+        margin-bottom: 100px;
+    }
+    
+    .productListContainer{
+        background-color: black;
+        border: 3px solid black;
+        border-radius: 7px;
+        width: 375px;
+        height: 455px;
+        margin: auto auto;
+        margin-bottom: 20px;
+        padding-top: 27.5px;
+        color: white;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    
+    .productListContainer:hover{
+        background-color: gray;
+    }
+    
+    .productImage{
+        width: 250px;
+        height: 250px;
+    }
+    
+    .productName,
+    .productDescription,
+    .productPrice{
+        padding-top: 5px;
+        font-weight: bold;
+        font-size: 15px;
+
+    }
+}
+
+@media screen and (min-width: 1025px) and (max-width: 1200px)
+{
+    .productListButtonSection button{
+        background-color: black;
+        color: white;
+        border-radius: 7px;
+        border: 3px solid black;
+        padding: 10px 10px;
+        font-size: 15px;
+        font-weight: bold;
+        width: 150px;
+        height: 50px;
+    }
+    
+    .productListSection{
+        display: flex;
+        padding-top: 50px;
+        text-align: center;
+        align-items: center;
+        flex-wrap: wrap;
+        height: 1475px;
+        margin-bottom: 100px;
+    }
+    
+    .productListContainer{
+        background-color: black;
+        border: 3px solid black;
+        border-radius: 7px;
+        width: 500px;
+        height: 460px;
+        margin: auto auto;
+        margin-bottom: 20px;
+        padding-top: 27.5px;
+        color: white;
+        padding-left: 30px;
+        padding-right: 30px;
+        
+    }
+    
+    .productListContainer:hover{
+        background-color: gray;
+    }
+    
+    .productImage{
+        width: 250px;
+        height: 250px;
+    }
+    
+    .productName,
+    .productDescription,
+    .productPrice{
+        padding-top: 5px;
+        font-weight: bold;
+        font-size: 15px;
+
+    }
+}
+
+@media screen and (min-width: 1201px) and (max-width: 1724px)
+{
+    
+
+    .productListButtonSection button{
+        background-color: black;
+        color: white;
+        border-radius: 7px;
+        border: 3px solid black;
+        padding: 10px 10px;
+        font-size: 15px;
+        font-weight: bold;
+        width: 150px;
+        height: 50px;
+    }
+    
+    .productListSection{
+        display: flex;
+        padding-top: 50px;
+        text-align: center;
+        align-items: center;
+        flex-wrap: wrap;
+        height: 1600px;
+        margin-bottom: 100px;
+    }
+    
+    .productListContainer{
+        background-color: black;
+        border: 3px solid black;
+        border-radius: 7px;
+        width: 575px;
+        height: 500px;
+        margin: auto auto;
+        margin-bottom: 20px;
+        padding-top: 27.5px;
+        color: white;
+        padding-left: 30px;
+        padding-right: 30px;
+        
+    }
+    
+    .productListContainer:hover{
+        background-color: gray;
+    }
+    
+    .productImage{
+        width: 250px;
+        height: 250px;
+    }
+    
+    .productName,
+    .productDescription,
+    .productPrice{
+        padding-top: 5px;
+        font-weight: bold;
+        font-size: 20px;
+
+    }
+}
+
+@media screen and (min-width: 1725px){
+    .productListButtonSection button{
+        background-color: black;
+        color: white;
+        border-radius: 7px;
+        border: 3px solid black;
+        padding: 10px 10px;
+        font-size: 15px;
+        font-weight: bold;
+        width: 150px;
+        height: 50px;
+    }
+    
+    .productListSection{
+        display: flex;
+        padding-top: 50px;
+        text-align: center;
+        align-items: center;
+        flex-wrap: wrap;
+        height: 1075px;
+        margin-bottom: 100px;
+    }
+    
+    .productListContainer{
+        background-color: black;
+        border: 3px solid black;
+        border-radius: 7px;
+        width: 575px;
+        height: 500px;
+        margin: auto auto;
+        margin-bottom: 20px;
+        padding-top: 27.5px;
+        color: white;
+        padding-left: 30px;
+        padding-right: 30px;
+        
+    }
+    
+    .productListContainer:hover{
+        background-color: gray;
+    }
+    
+    .productImage{
+        width: 250px;
+        height: 250px;
+    }
+    
+    .productName,
+    .productDescription,
+    .productPrice{
+        padding-top: 5px;
+        font-weight: bold;
+        font-size: 20px;
+
+    }
+}

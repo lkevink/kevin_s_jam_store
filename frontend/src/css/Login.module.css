@@ -1,0 +1,62 @@
+.loginContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 125%;
+    padding-top: 50px;
+}
+
+.loginContainer label{
+    color: black;
+}
+
+.loginButton{
+    background-color: black;
+    color: white;
+    border-radius: 7px;
+    border: 3px solid black;
+    padding: 10px 10px;
+    margin: 5px;
+    font-weight: bold;
+}
+
+.loginForm button{
+    background-color: black;
+    color: white;
+    border-radius: 7px;
+    border: 3px solid black;
+    padding: 10px 10px;
+    margin: 5px;
+    font-weight: bold;
+}
+
+.loginForm button a{
+    text-decoration: none;
+    color: white;
+}
+
+@media screen and (min-width: 320px) and (max-width: 480px)
+{
+
+}
+
+@media screen and (min-width: 481px) and (max-width: 768px)
+{
+
+}
+
+@media screen and (min-width: 769px) and (max-width: 1024px)
+{
+
+}
+
+@media screen and (min-width: 1025px) and (max-width: 1200px)
+{
+
+}
+
+@media screen and (min-width: 1201px) 
+{
+
+}

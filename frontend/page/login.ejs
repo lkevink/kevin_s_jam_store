@@ -1,0 +1,30 @@
+<%- include('header.ejs') %>
+
+<body>
+    <h1>Login</h1>
+    <form action="/login" method="post">
+
+
+        <table>
+            <tr>
+                
+                <td><label for="email">Email:</label></td>
+                <td><input type="text" id="email" name="email" required pattern="[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,63}"
+                title="Enter a valid email address"></td>
+            </tr>
+            <br>
+            <tr>
+                <td><label for="password">Password:</label></td>
+                <td><input type="password" id="password" name="password" min="10" max="20" require></td>
+            </tr>
+        
+        </table>
+
+        <br>
+
+        <input type="submit" value="Login" class="loginButton">
+        
+    </form>    
+</body>
+
+<%- include('footer.ejs') %>
